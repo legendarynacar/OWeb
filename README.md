@@ -6,7 +6,6 @@ Some simple Greasemonkey Scripts for an ***Open*** **World Wide Web**
 "Information is power. But like all power, there are those who want to keep it for themselves."
 
 ~ Aaron Swartz
-
 <br/>
  
 CERN announced that the World Wide Web would be free to anyone, with no fees due.
@@ -17,13 +16,13 @@ CERN announced that the World Wide Web would be free to anyone, with no fees due
 	
 **We must bring back our World Wide Web.**
 
-#### SocialUnlocker
+## SocialUnlocker
 Unlock and get rid of that Social Locker
 
 https://gist.github.com/TheZ3ro/5fc3fa637779dde715f6
 
-#### LongURL Mobile Expander
+## LongURL Mobile Expander
 Mirror: https://gist.github.com/TheZ3ro/54ccc62c9a1359df6f36
 
-##### Anti-Adblock Killer
+## Anti-Adblock Killer
 Mirror: https://gist.github.com/TheZ3ro/e4c7c586295aa7068af2
